@@ -1,34 +1,39 @@
 
-#header{
+
+#Header{
   background-color:red;
   padding:20px;
   text-align:center;
   color:white;
+  width:980px;
+  position:relative;
+  left:0px;
+  top:33px;
+
 }
 
-#Text{
-  top:50px;
-  left:50px;
-  font-size:12px;
-  z-index:1;
+#wrapper{
+  width:1000px;
+  background-color:white;
 }
 
-
-#Leftside{
+#This{
+  text-align: left;
   background-color:green;
-  padding:400px;
-  color:white;
-  font-size:12px;
-  text-align:left;
-  z-index:5;
-
+  padding:10px;
+  width:1000px;
+  height:1000px;
 }
 
 #Footer{
-  background-color:blue;
-  padding:40px;
-  text-align:left;
+  background-color: blue;
+  font-size: 12px;
   color:white;
-  font-size:12px;
+  height:50px;
+  width:1020px;
+  padding-top:5px;
+  position: relative;
+  left:0px;
+  top:-33px;
 
 }
