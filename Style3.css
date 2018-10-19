@@ -1,0 +1,65 @@
+body{
+background-color:green;
+}
+
+#Red{
+  background-color:red;
+  height:50px;
+  text-align: center;
+  padding: 25px;
+  width:650px;
+  margin: 0 auto;
+}
+
+#Nav1{
+  background-color:pink;
+  height:50px;
+  text-align: left;
+  padding: 25px;
+  width:165px;
+  margin: 0 auto;
+  position: absolute;
+  font-weight: bold;
+  left:418px;
+}
+
+#Nav2{
+  background-color:orange;
+  height:50px;
+  text-align: left;
+  padding: 25px;
+  width:440px;
+  margin: 0 auto;
+  position: absolute;
+  font-weight: bold;
+  right:418px;
+}
+
+#Content{
+  background-color:blue;
+  margin:0 auto;
+  width:700px;
+  height:520px;
+  right:418px;
+  top:208px;
+  position: absolute;
+  font-weight: bold;
+}
+
+#Footer{
+  background-color:yellow;
+  margin:0 auto;
+  width:700px;
+  height: 50px;
+  top:700px;
+  left:418px;
+  position: absolute;
+  font-weight: bold;
+}
+
+
+#Wrapper{
+  width:500px;
+  margin:0 auto;
+  background-color: white;
+}
