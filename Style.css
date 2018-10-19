@@ -9,12 +9,13 @@
   position:relative;
   left:0px;
   top:33px;
-
+  margin: 0 auto;
 }
 
 #wrapper{
   width:1000px;
   background-color:white;
+  margin: 0 auto;
 }
 
 #This{
@@ -24,7 +25,8 @@
   width:1000px;
   height:1000px;
   color:white;
-  font-size:12px; 
+  font-size:12px;
+  margin: 0 auto;
 }
 
 #Footer{
@@ -37,5 +39,5 @@
   position: relative;
   left:0px;
   top:-33px;
-
+  margin:0 auto
 }
